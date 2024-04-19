@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ðÇñ¾þÿÿÿÿ8©¿ãŠí1J$c2feef6b-b0e1-4c50-8ea1-5fddf36d0870
+ 
+java:S1450"XRemove the "statement" field and declare it as a local variable in the relevant methods.(„£„÷øÿÿÿÿ8®¿ãŠí1J$fd393b81-6270-4eb6-a7f7-55008a36fe1c
+
+java:S1854'"7Remove this useless assignment to local variable "sql".(’ñ¯Êùÿÿÿÿ8íæéŠí1J$86a59df7-251a-4638-abd7-1c9dd484de6e
+‚
+java:S1854&":Remove this useless assignment to local variable "people".(¯ØÇ—øÿÿÿÿ8ÎˆõŠí1J$9b2e5509-f466-4bf0-962c-a7e77d4bbd6c
+s
+java:S1481&"+Remove this unused "people" local variable.(¯ØÇ—øÿÿÿÿ8ÐˆõŠí1J$3dc4e28e-8a55-4724-af7f-aa45cd2e5c99
+p
+java:S1481'"(Remove this unused "sql" local variable.(’ñ¯Êùÿÿÿÿ8ïæéŠí1J$b00e0fe4-696d-40bd-abd3-3bc1d99b6b27
+}
+java:S1068"5Remove this unused "preparedStatement" private field.(¿ä Óþÿÿÿÿ8¶¿ãŠí1J$beb252a4-6fb9-46bd-9fb7-c3101405d59f

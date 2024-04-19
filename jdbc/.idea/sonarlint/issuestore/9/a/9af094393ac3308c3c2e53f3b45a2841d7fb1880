@@ -1,0 +1,22 @@
+
+‰
+java:S1192,"FDefine a constant instead of duplicating this literal "price" 3 times.(íÛ‘‘8‹ÀÁéì1J$2611ae79-c896-41de-8e0e-b639856e71b4
+
+java:S1192"[Define a constant instead of duplicating this literal "SENTENCIA A EJECUTAR: %s%n" 3 times.(ŞëÜ48ŒÀÁéì1J$88842643-4d32-4a5a-865b-fb820a540952
+
+java:S1192+"FDefine a constant instead of duplicating this literal "model" 3 times.(Ùœ³İúÿÿÿÿ8ŒÀÁéì1J$57903358-4c17-4ed2-85ac-e31983016ec9
+
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8§ÀÁéì1J$8d41bd1e-a5db-4c06-800f-1686fd89e5b3
+
+java:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¨ÀÁéì1J$90c4a789-459c-4df4-a969-8794306180d2
+
+java:S20954"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8§ÀÁéì1J$4d9c1761-b5d6-4402-a729-a85d0642d3c1
+—
+java:S2095@"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8ıüÇéì1J$7269a8da-f4ba-4411-9c5b-b5435eb318b0
+
+java:S2095'"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¨ÀÁéì1J$7ff1dda2-6b7f-44e2-8039-72dafb865a87
+
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8§ÀÁéì1J$64241bb3-fbf1-4332-afbd-974bee97d2d5
+l	java:S106"+Replace this use of System.out by a logger.(ŞëÜ48­ÀÁéì1J$43718b56-129b-4ce6-8ec4-3565c40dede6
+l	java:S106"+Replace this use of System.out by a logger.(ŞëÜ48®ÀÁéì1J$2725f998-e749-4cc4-8819-5bd7ad387370
+l	java:S106"+Replace this use of System.out by a logger.(ŞëÜ48®ÀÁéì1J$c6c6ed6f-3abf-44ad-909f-209297f6c65e

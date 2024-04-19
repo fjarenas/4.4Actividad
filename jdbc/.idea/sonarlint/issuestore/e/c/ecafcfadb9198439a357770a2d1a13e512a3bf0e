@@ -1,0 +1,7 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¤‚ÕŠí1J$49624417-5699-48c7-bd8d-05ccde81e237
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¥‚ÕŠí1J$46fac949-e161-4f41-ac62-e83fbcbeb972
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğÇñ¾şÿÿÿÿ8¦‚ÕŠí1J$2571d18e-ba64-4131-80c4-3b073949c566
+‡
+java:S2147"DCombine this catch with the one at line 13, which has the same body.(ï­£Ä8«‚ÕŠí1J$8dcfbc53-47fe-445f-9fa6-7b54cc8a9c2f
+L	java:S106"+Replace this use of System.out by a logger.(‰â¹ıÿÿÿÿ8ÆÓÕŠí1

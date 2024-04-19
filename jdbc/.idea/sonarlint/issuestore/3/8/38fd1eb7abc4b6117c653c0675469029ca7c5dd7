@@ -1,0 +1,10 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ĞÑéæì1J$d894b755-774f-4a1e-99b5-ad27f0437b0d
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8£áíæì1J$d1c98c5b-ded9-462a-b0bc-d2eff2816fb5
+‡
+java:S2147"DCombine this catch with the one at line 19, which has the same body.(ï­£Ä8²áíæì1J$8ced8f5b-a366-48fa-bc94-73842295ab8b
+r	java:S106"+Replace this use of System.out by a logger.(‰õÿ˜şÿÿÿÿ8ÚÑéæì1J$09d8d87c-ffd5-4e85-a1f4-c51cbea376a1
+m	java:S106"+Replace this use of System.out by a logger.(ûÈ›Ï8ÛÑéæì1J$4847ba4d-df92-4a21-9ff4-a342cfa88fbf
+m	java:S106"+Replace this use of System.out by a logger.(÷Ï©»8ÛÑéæì1J$ccc8b078-3c80-4abb-a934-279f911179de
+m	java:S106"+Replace this use of System.out by a logger.(ÓÅÊ¬8ÜÑéæì1J$82e31b99-393b-4c6a-ae53-7bf7fa98ac7b
+m	java:S106"+Replace this use of System.out by a logger.(­äèù8ÜÑéæì1J$8a1fdbb7-2892-43d3-b08a-73701e8ddd24

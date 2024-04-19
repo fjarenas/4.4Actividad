@@ -1,0 +1,12 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¦íÊÁì1J$cc811213-a013-44ff-b6f8-02ddcc7eeae7
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¯ÏÁì1J$b6e79086-2d95-4525-9166-be47733abc36
+]
+java:S1220""Move this file to a named package.8¨íÊÁì1J$7c0cf005-c9c1-47eb-8809-a04e413c01f0
+‡
+java:S2147"DCombine this catch with the one at line 19, which has the same body.(ï­£Ä8½ÏÁì1J$3d86fb74-1a98-47f2-9e58-aebd218e2699
+r	java:S106"+Replace this use of System.out by a logger.(‰õÿ˜şÿÿÿÿ8²íÊÁì1J$8febc4d0-a1e7-45ed-9517-4dd5c8ccdf2c
+m	java:S106"+Replace this use of System.out by a logger.(ûÈ›Ï8²íÊÁì1J$37ae1e34-d569-4fee-96f9-0580044537ea
+m	java:S106"+Replace this use of System.out by a logger.(÷Ï©»8²íÊÁì1J$fb68d338-207f-4297-aeb6-2f46bca3db8d
+m	java:S106"+Replace this use of System.out by a logger.(ÓÅÊ¬8²íÊÁì1J$4ea6db7a-d85f-4101-a616-9379f40fd2ca
+m	java:S106"+Replace this use of System.out by a logger.(­äèù8²íÊÁì1J$a4f1de26-d266-46e7-8df9-6cbd52efef5b
